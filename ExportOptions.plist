@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://raw.githubusercontent.com/huseyincandan/cepmusavir/master/cm.ipa</string>
+		<string>https://github.com/huseyincandan/cepmusavir/raw/master/cm.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://raw.githubusercontent.com/huseyincandan/cepmusavir/master/57.png</string>
+		<string>https://github.com/huseyincandan/cepmusavir/raw/master/57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://raw.githubusercontent.com/huseyincandan/cepmusavir/master/512.png</string>
+		<string>https://github.com/huseyincandan/cepmusavir/raw/master/512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>

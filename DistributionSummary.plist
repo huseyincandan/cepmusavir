@@ -13,14 +13,30 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string></string>
+				<string>18E5822774580AABDE91E64065460A3A4C2EF02F</string>
 				<key>dateExpires</key>
-				<string></string>
+				<string>28.06.2020</string>
 				<key>type</key>
-				<string>Unknown</string>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9GYMKH28NB.com.huseyincandan.cepmusavir</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9GYMKH28NB</string>
+				<key>get-task-allow</key>
+				<false/>
 			</dict>
 			<key>name</key>
 			<string>Cep Müşavir.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>578dade9-6c51-4633-9f8d-330c8958df33</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.huseyincandan.cepmusavir</string>
+			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
